@@ -1,0 +1,1 @@
+FROM ##CONTAINER##:latest
